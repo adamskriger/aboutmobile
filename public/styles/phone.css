@@ -1,0 +1,154 @@
+
+/*Smart phones (portrait and landscape)*/
+/* Portrait and Landscape */
+
+.container {
+  margin: 0 auto;
+  width: 100%;
+}
+
+.header-background {
+  background-color: #57bfd6;
+  width: 100%;
+  height: 45px;
+  padding-bottom: -10px;
+}
+
+.about_logo {
+  width: 150px;
+  z-index:2;
+}
+
+.secondary-header {
+  background-color: #cbfeff;
+  height: 3rem;
+  z-index: 1;
+  padding: .5rem;
+  text-align: center;
+
+}
+
+.fixed {
+  position: fixed;
+  top: 0px;
+}
+.headline_a {
+  position: relative;
+  float: left;
+  width:50%;
+  margin-top: -.2rem;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+
+}
+
+.sponsored_by {
+  width: 40%;
+  float: left;
+}
+
+.main-image {
+  width: 100%;
+}
+
+}
+
+.main-content {
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+
+
+}
+
+.very-well-div {
+  text-align: center;
+}
+
+.apple-logo {
+  text-align: center;
+  margin- 10px;
+}
+
+.blue-backdrop {
+  margin-top: 12px;
+  background-color: #83b7c2;
+  padding-top: 10px;
+  text-align: center;
+  height: 682px;
+}
+
+.formfor-ipad {
+  text-align: center;
+}
+.inputfor-ipad {
+  margin-bottom: 0;
+  background-color: #83b7c2;
+  width: 85%;
+  display: inline-block;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  border: 1px solid white;
+  color: white;
+  line-height: 1.4rem;
+  padding-left: .7rem;
+}
+
+.custom-engraving {
+  color: white;
+  text-align: center;
+}
+.buttonfor-ipad {
+  margin-top: 1rem;
+  background-color: #83b7c2;
+  width: 85%;
+  display: inline-block;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  border: 1px solid white;
+  color: white;
+  line-height: 2rem;
+}
+
+.active-ipad {
+  margin-top: 1.8rem;
+  margin-right: 3.5rem;
+  padding-top: 4.5rem;
+  text-align: center !important;
+  margin-top: 1.5rem;
+  position: relative;
+
+  background-image: url("http://0.tqn.com/f/beta/test/assets/ipad.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 300px;
+  width: 100%;
+
+}
+
+.centerer {
+  text-align: center;
+}
+.post-container {
+  width: 400px;
+  text-align: center !important;
+}
+
+#input1post {
+  position: absolute;
+  text-align: center;
+  color: #545454;
+  display: inline-block;
+}
+
+#input2post {
+  position: absolute;
+  text-align: center;
+  color: #545454;
+  display: inline-block;
+
+}
+
+#input3post {
+  position: absolute;
+  text-align: center;
+  color: #545454;
+  display: inline-block;
+}
