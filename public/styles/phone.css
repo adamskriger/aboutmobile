@@ -1,4 +1,17 @@
 
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: white;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: white;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: white;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: white;
+}
+
 /*Smart phones (portrait and landscape)*/
 /* Portrait and Landscape */
 
@@ -21,7 +34,7 @@
 
 .secondary-header {
   background-color: #cbfeff;
-  height: 3rem;
+  height: 3.3rem;
   z-index: 1;
   padding: .5rem;
   text-align: center;

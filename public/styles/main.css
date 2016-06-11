@@ -32,7 +32,7 @@
 
     .secondary-header {
       background-color: #cbfeff;
-      height: 3rem;
+      height: 3.3rem;
       z-index: 1;
       padding: .5rem;
       text-align: left;
@@ -57,6 +57,7 @@
     .sponsored_by {
       width: 12%;
       float: right;
+      margin-bottom: 4px;
     }
 
     .main-image {

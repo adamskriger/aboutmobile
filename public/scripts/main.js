@@ -14,6 +14,7 @@ $( document ).ready(function() {
 
 $('.formfor-ipad').submit(function(e) {
   e.preventDefault();
+  $('.active-ipad').empty();
   var input1 = $('#input1field').val().trim();
   console.log(input1)
   $('.active-ipad').append(input1 + '<br>');
@@ -28,7 +29,6 @@ $('.formfor-ipad').submit(function(e) {
   $(this).attr('style', 'text-align: center');
 
   $('.centerer').css('text-align','center');
-
 
 });
 
