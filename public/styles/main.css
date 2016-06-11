@@ -186,3 +186,7 @@
       display: inline-block;
 
     }
+
+    #submitButton:hover {
+      background-color: #545454
+    }
